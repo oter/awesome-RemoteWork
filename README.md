@@ -65,7 +65,6 @@ Awesome Remote Work
 - [https://jobspresso.co](https://jobspresso.co/) Curated list of remote jobs  
 - [https://www.skipthedrive.com](https://www.skipthedrive.com/)  Remote opportunities in all industries  
 - [http://www.soshace.com](http://www.soshace.com) a Full-time jobs for React/Angular/Vue.js/Python/Java developers.
-- [https://www.lancegator.com/](https://www.lancegator.com/) - freelance jobs aggregator
 - [https://fullstackjob.com/remote/jobs](https://fullstackjob.com/remote/jobs) - Remote Full-Stack Developer Jobs
 - [https://alcamine.com](https://alcamine.com) - A special inbox that protects you from recruiting spam and scores job opportunities based on your preferences, location, and keywords.
 - [https://tiancai.co/](https://tiancai.co/). A platform that provides vetted network of freelance devs, UI designers and PMs with software/app/web development projects - 100% remote. 
