@@ -64,7 +64,6 @@ Awesome Remote Work
 - [https://www.golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html) Go/Golang jobs, filter on remote jobs
 - [https://jobspresso.co](https://jobspresso.co/) Curated list of remote jobs  
 - [https://www.skipthedrive.com](https://www.skipthedrive.com/)  Remote opportunities in all industries  
-- [https://remotejobr.com](https://remotejobr.com)  Barebones site with listing of remote roles  
 - [http://www.soshace.com](http://www.soshace.com) a Full-time jobs for React/Angular/Vue.js/Python/Java developers.
 - [https://www.lancegator.com/](https://www.lancegator.com/) - freelance jobs aggregator
 - [https://fullstackjob.com/remote/jobs](https://fullstackjob.com/remote/jobs) - Remote Full-Stack Developer Jobs
