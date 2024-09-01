@@ -37,13 +37,12 @@ Awesome Remote Work
 - [JobsCollider](https://jobscollider.com/remote-jobs) tens of thousands of remote jobs from over 10,000 companies and startups worldwide.
 - [https://himalayas.app](https://himalayas.app) a dedicated remote job board
 - [https://workaline.com/](https://workaline.com/)
-- [https://remotesome.com/](https://remotesome.com/). Full-time remote-first enginnering jobs.
+- [https://remotesome.com/](https://remotesome.com/). Full-time remote-first engineering jobs.
 - [https://whoishiring.io/](https://whoishiring.io/)
 - [https://findwork.dev/](https://findwork.dev). Jobs aggregator and search engine for software jobs.
 - [https://careervault.io](https://www.careervault.io). Thousands of remote jobs scraped every few hours from 900+ companies.
 - [https://weworkremotely.com](https://weworkremotely.com). A page of [37Signals](http://37signals.com).
 - [https://dailyremote.com](https://dailyremote.com). Filter and find remote jobs for every role!
-- [http://careers.stackoverflow.com/jobs/remote](http://careers.stackoverflow.com/jobs/remote). Job page of StackOverflow.
 - [http://www.flexjobs.com/jobs/](http://www.flexjobs.com/jobs/) a service purely focusing on telecommuting, part-time, flexible jobs.
 - [https://remoterole.com/](https://remoterole.com/) a job board exclusively for remote and remote-friendly jobs.
 - [http://www.reddit.com/r/forhire/new/](http://www.reddit.com/r/forhire/). Subreddit for hiring, not purely a remote job page but have a lots.
