@@ -62,7 +62,6 @@ Awesome Remote Work
 - [http://remoteok.io/](http://remoteok.io/) a remote job aggregator. Job from Angel List, Stackoverflow, ...
 - [https://www.fossjobs.net/](https://www.fossjobs.net/) This is the first website exclusively for Free & Open Source jobs.
 - [https://www.golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html) Go/Golang jobs, filter on remote jobs
-- [https://jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) AI/Machine learning jobs, filter on remote jobs
 - [https://jobspresso.co](https://jobspresso.co/) Curated list of remote jobs  
 - [https://www.skipthedrive.com](https://www.skipthedrive.com/)  Remote opportunities in all industries  
 - [https://remotejobr.com](https://remotejobr.com)  Barebones site with listing of remote roles  
