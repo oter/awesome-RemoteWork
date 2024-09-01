@@ -34,6 +34,7 @@ Awesome Remote Work
 - [Effective Homeoffice: An opinionated guide to effectively work from home](https://effectivehomeoffice.com/) by Jochen Christ and Simon Harrer at INNOQ.
 
 ## Hiring Sites
+- [JobsCollider](https://jobscollider.com/remote-jobs) tens of thousands of remote jobs from over 10,000 companies and startups worldwide.
 - [https://himalayas.app](https://himalayas.app) a dedicated remote job board
 - [https://workaline.com/](https://workaline.com/)
 - [https://remotesome.com/](https://remotesome.com/). Full-time remote-first enginnering jobs.
