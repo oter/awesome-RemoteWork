@@ -53,7 +53,6 @@ Awesome Remote Work
 - [https://remotecoder.io/](https://remotecoder.io/)
 - [http://www.authenticjobs.com/#onlyremote=1](http://www.authenticjobs.com/#onlyremote=1)
 - [http://www.remoteyear.com/jobs/](http://www.remoteyear.com/jobs/), job board of RemoteYear program.
-- [http://nomadjobs.io/](http://nomadjobs.io/)
 - [http://workingnomads.co/](http://workingnomads.co/)
 - [http://www.teamed.io/](http://www.teamed.io/)
 - [http://www.toptal.com](http://www.toptal.com)
